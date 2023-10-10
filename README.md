@@ -1,5 +1,5 @@
 <h1>Hi 👋</h1>
-<b>👋 Hi, I’m @ezz456CH(or Earth) | 11/11</b>
+👋 Hi, I’m <b>ezz456CH</b>(or <b>Earth</b>) | <b>11/11</b>
 
 - 🔭 I’m currently working on my Discord bot.
 
