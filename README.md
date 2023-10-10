@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1>Hi 👋</h1>
 - 👋 Hi, I’m @ezz456CH(or Earth) | 11/11
 - 🔭 I’m currently working on My Discord bot
 
