@@ -1,7 +1,5 @@
 <h1>Hi 👋</h1>
-👋 Hi, I’m <b>ezz456CH</b>(or <b>Earth</b>) | <b>11/11</b>
-
-- 🔭 I’m currently working on my Discord bot.
+<b>👋 Hi, I’m ezz456CH(or Earth) | 11/11</b>
 
 <!---
 ezz456CH/ezz456CH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
