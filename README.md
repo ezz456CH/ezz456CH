@@ -1,5 +1,5 @@
-<h1>Hi 👋</h1>
-<b>👋 Hi, I’m ezz456CH(or Earth) | 11/11</b>
+### Hi 👋
+**👋 Hi, I’m ezz456CH(or Earth) | 11/11**
 
 <!---
 ezz456CH/ezz456CH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
